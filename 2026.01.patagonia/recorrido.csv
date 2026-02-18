@@ -12,6 +12,7 @@ lat,long,lugar,fecha,foto,sentido
 -42.506144,-71.454769,,06/01/26,cholila.1.jpeg,sur
 -42.2923074002726,-71.3535613805286,,06/01/26,cholila.2.jpeg,sur
 -42.2922856072395,-71.3540605471893,incendio en Pto La Patriada,06/01/26,cholila.3.jpeg,sur
+-42.919301,-71.340339,Esquel,06/01/26,,sur
 -43.032402,-71.442147,Trevelin,06/01/26,trevelin.jpeg,sur
 -43.092573,-71.45974,Camping El Chacay,06/01/26,aqui.png,sur
 -43.0797009433654,-71.4589944841767,museo de Trevelín,07/01/26,museo.trevelin.jpeg,sur
@@ -51,7 +52,7 @@ lat,long,lugar,fecha,foto,sentido
 -45.571197,-72.067822,Coyhaique,13/01/26,,
 -45.575038,-72.072645,Coyhaique,13/01/26,coyhaique.1.jpeg,
 -46.06956,-72.034603,,13/01/26,,
--46.121334,-72.158988,Villa Cerro Castillo,13/01/26,,
+-46.121334,-72.158988,Villa Cerro Castillo,13/01/26,cerro.castillo.1.jpg,
 -46.21614,-71.994417,Río Ibañez,14/01/26,rio.ibaniez.1.jpeg,
 -46.280516,-71.932505,Río Ibañez,14/01/26,rio.ibaniez.2.jpeg,
 -46.269844,-71.972337,Río Ibañez,14/01/26,rio.ibaniez.3.jpeg,
